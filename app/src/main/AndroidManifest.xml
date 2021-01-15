@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LadySmartApp">
-        <activity android:name=".About"></activity>
+        <activity android:name=".LoginPage"></activity>
+        <activity android:name=".About" />
         <activity android:name=".RegLogChoice" />
         <activity android:name=".MainActivity">
             <intent-filter>
