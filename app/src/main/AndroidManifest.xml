@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LadySmartApp">
-        <activity android:name=".BottomWear"></activity>
+        <activity android:name=".DisplayItem"></activity>
+        <activity android:name=".Frocks" />
+        <activity android:name=".Formals" />
+        <activity android:name=".BottomWear" />
         <activity android:name=".tShirts" />
         <activity android:name=".Bags" />
         <activity android:name=".Watches" />
