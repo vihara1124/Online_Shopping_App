@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/applogo_"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AdminLogin"></activity>
+        <activity android:name=".AddStock"></activity>
+        <activity android:name=".AdminLogin" />
         <activity android:name=".AddStaff" />
         <activity android:name=".AdminHomePage" />
         <activity android:name=".PlaceOrder" />
