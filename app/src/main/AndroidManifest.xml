@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/applogo_"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".DisplayItem"></activity>
+        <activity android:name=".PlaceOrder"></activity>
+        <activity android:name=".AcceptOrders" />
+        <activity android:name=".DisplayItem" />
         <activity android:name=".Frocks" />
         <activity android:name=".Formals" />
         <activity android:name=".BottomWear" />
