@@ -4,23 +4,20 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/rectangle_logo"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/applogo_"
         android:supportsRtl="true"
-        android:theme="@style/Theme.LadySmartApp">
-        <activity android:name=".AddStock"></activity>
-        <activity android:name=".MainActivity4" />
-        <activity android:name=".MainActivity3" />
-        <activity android:name=".Frockitems" />
-        <activity android:name=".Order" />
-        <activity android:name=".MainActivity2" />
+
         <activity android:name=".Watches" />
         <activity android:name=".Clothing" />
         <activity android:name=".LatestDeals" />
         <activity android:name=".ClothingCategories" />
         <activity android:name=".RegisterPage" />
-        <activity android:name=".HomePageActivity" />
+        <activity
+            android:name=".HomePageActivity"
+            android:label="@string/title_activity_home_page"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".LoginPage" />
         <activity android:name=".About" />
         <activity android:name=".RegLogChoice" />
