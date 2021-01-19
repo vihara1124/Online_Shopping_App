@@ -11,8 +11,6 @@
         android:theme="@style/AppTheme">
         <activity android:name=".StaffLogin"></activity>
         <activity android:name=".StaffHomePage" />
-        <activity android:name=".AdminLogin" />
-        <activity android:name=".AdminHomePage" />
         <activity android:name=".DisplayItem" />
         <activity android:name=".Frocks" />
         <activity android:name=".Formals" />
