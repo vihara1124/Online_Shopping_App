@@ -13,8 +13,6 @@
         <activity android:name=".AdminLogin" />
         <activity android:name=".AddStaff" />
         <activity android:name=".AdminHomePage" />
-        <activity android:name=".PlaceOrder" />
-        <activity android:name=".AcceptOrders" />
         <activity android:name=".DisplayItem" />
         <activity android:name=".Frocks" />
         <activity android:name=".Formals" />
