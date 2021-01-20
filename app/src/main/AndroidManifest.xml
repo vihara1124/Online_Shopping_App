@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/applogo_"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AdminHomePage"></activity>
+        <activity android:name=".StaffHomePage"></activity>
+        <activity android:name=".Shoes" />
+        <activity android:name=".CurrentOrderStatus" />
+        <activity android:name=".AdminLogin" />
+        <activity android:name=".AddStock" />
+        <activity android:name=".AdminHomePage" />
         <activity android:name=".PlaceOrder" />
         <activity android:name=".AddStaff" />
         <activity android:name=".AcceptOrders" />
