@@ -172,4 +172,7 @@ public class AcceptOrders extends AppCompatActivity {
     public void onBackPressed(){
         startActivity(new Intent(AcceptOrders.this,StaffLogin.class));
     }
+
+    private class DataSnapshot {
+    }
 }
