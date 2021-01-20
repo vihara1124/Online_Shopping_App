@@ -9,13 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LadySmartApp">
-        <activity android:name=".MainActivity5"></activity>
         <activity android:name=".AddStock" />
-        <activity android:name=".MainActivity4" />
-        <activity android:name=".MainActivity3" />
-        <activity android:name=".Frockitems" />
         <activity android:name=".Order" />
-        <activity android:name=".MainActivity2" />
         <activity android:name=".Watches" />
         <activity android:name=".Clothing" />
         <activity android:name=".LatestDeals" />
