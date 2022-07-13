@@ -25,6 +25,8 @@
   <li>Place order</li>
   </ui>
   <br>
+  <h2>Non functionality</h2>
+  <br>
   <ui>
   <li>Security of the app</li>
   <li>Performance of the app system</li>
