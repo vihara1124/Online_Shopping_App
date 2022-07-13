@@ -25,6 +25,16 @@
   <li>Place order</li>
   </ui>
   <br>
+   <h2>Non Functionality</h2>
+  <br>
+  <ui>
+     <li>Performance of the system</li>
+     <li>security of the system</li>
+     <li>interoperability</li>
+     <li>standards</li>
+  </ui>
+  <br> 
+ 
   <h2>Languages used:</h2>
   1.JAVA
   <br>
@@ -34,6 +44,7 @@
   1.ANDROID STUDIO
   <br>
   2.FIREBASE REALTIME DATABASE
+  
 
 
 
